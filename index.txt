@@ -1,3 +1,0 @@
-Hello,
-
-this is main file of InitalRepo and it does not have any function. Its sole purpose is to test out GitHub.
