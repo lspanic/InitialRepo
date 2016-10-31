@@ -1,2 +1,0 @@
-# InitialRepo
-For testing purposes
